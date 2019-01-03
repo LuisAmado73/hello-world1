@@ -1,5 +1,8 @@
 # hello-world1
 
-Hi mates!!
-Im just very interested in HTML5,CSS3,Java and JavaScript
-Thanks very much indeed.
+
+Hi Humans...!!
+
+I would like to study everthing about JS, Java, CSS3 HTML5 and 
+Web design..Thanks to everybody..//
+
